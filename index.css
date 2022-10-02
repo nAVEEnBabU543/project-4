@@ -1,0 +1,39 @@
+ 
+ h1{
+    text-align: center;
+    font-size: 500%;
+    color: red;
+ }
+ h2{
+   font-size: 150%;
+   
+   
+ }
+ h2 strong{
+   font-size: 400%;
+   
+ }
+ h2 span{
+   font-size: 400%;
+   
+ }
+ h3{
+   font-size: 500%;
+ }
+ body{
+   background: url(https://i1.wp.com/realprogramming.com/wp-content/uploads/2020/03/Learning-coding-online.jpg?resize=1430%2C954&ssl=1)no-repeat;
+ background-size: 100%;
+ 
+  
+}
+p{
+  color: chocolate;
+}
+div{
+  color: chartreuse;
+  
+}
+ 
+
+
+
